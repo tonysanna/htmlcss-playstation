@@ -21,10 +21,13 @@ body {font-size: helvetica, arial; }
     padding: 40px 20px;
 }
 
+#jumbotron2 {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 700px;
+    padding: 40px 20px;
+}
+
 #Play5 {
     padding: 40px 20px;
 }
 
-.blue {
-    color:lightskyblue;
-}
