@@ -20,3 +20,11 @@ body {font-size: helvetica, arial; }
     height: 600px; 
     padding: 40px 20px;
 }
+
+#Play5 {
+    padding: 40px 20px;
+}
+
+.blue {
+    color:lightskyblue;
+}
