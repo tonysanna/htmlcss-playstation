@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+body {font-size: helvetica, arial; }
+
 .top-head {
     height: 30px;
     background-color: black;
@@ -13,6 +15,8 @@
     height: 16px;
 }
 
-.bottom-head {
-    box-shadow: rgba(0, 0, 0, 0.118) 0px 3px 3px;
+#jumbotron {
+    background-image: url("../img/jumbo-bg.png") ;
+    height: 600px; 
+    padding: 40px 20px;
 }
