@@ -17,12 +17,14 @@ body {font-size: helvetica, arial; }
 
 #jumbotron {
     background-image: url("../img/jumbo-bg.png") ;
+    background-position: center top;
     height: 600px; 
     padding: 40px 20px;
 }
 
 #jumbotron2 {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-position: center top;
     height: 700px;
     padding: 40px 20px;
 }
