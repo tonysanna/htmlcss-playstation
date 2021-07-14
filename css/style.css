@@ -40,3 +40,24 @@ body {font-size: helvetica, arial; }
 .lightgrey {
     background-color: grey;
 }
+
+#logo1 {
+    width: 150px;
+}
+#mondo {
+    width: 50px;
+    margin: 5px;
+}
+
+#Italia {
+    width: 200px;
+}
+ul {
+    padding: 0;
+  }
+  
+  li {
+    list-style: none;
+    margin: 5px;
+    cursor: pointer;
+  }
